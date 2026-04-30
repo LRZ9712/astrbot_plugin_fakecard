@@ -3,7 +3,7 @@
 专为 [AstrBot](https://github.com/Soulter/AstrBot) 编写的娱乐互动插件。该插件通过构造特殊的音乐卡片（Custom Music Card），成功绕过 QQ 严格的图文 JSON 风控，能够在群聊或私聊中生成精美的“建立关系”邀请卡片。
 
 ## ✨ 效果
-
+![运行效果图](assets/demo.png)
 
 
 ## 📦 安装方法
